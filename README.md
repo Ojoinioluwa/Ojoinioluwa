@@ -5,16 +5,15 @@ A passionate Full-Stack Developer with a solid foundation in the MERN stack, act
 
 📚 Table of Contents
 
-- [🚀 About Me](#-about-me)  
-- [🛠️ Skills & Technologies](#️-skills--technologies)  
-- [💻 Projects](#-projects)  
-- [💼 Experience/Work](#-experiencework)  
-- [🎓 Certifications & Courses](#-certifications--courses)  
-- [🤝 Open Source Contributions](#-open-source-contributions)  
-- [🌱 Currently Learning & Future Goals](#-currently-learning--future-goals)  
-- [📊 My GitHub Stats](#-my-github-stats)  
-- [🔗 Let's Connect!](#-lets-connect)
-
+- [About Me](#about-me)  
+- [Skills & Technologies](#skills--technologies)  
+- [Projects](#projects)  
+- [Experience/Work](#experiencework)  
+- [Certifications & Courses](#certifications--courses)  
+- [Open Source Contributions](#open-source-contributions)  
+- [Currently Learning & Future Goals](#currently-learning--future-goals)  
+- [My GitHub Stats](#my-github-stats)  
+- [Let's Connect](#lets-connect)
 
 ---
 
