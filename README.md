@@ -128,7 +128,7 @@ I thrive on building things from scratch, diving deep into clean code, and contr
 - Role-based user dashboard
 
 **Live Demo:** Coming soon
-**GitHub:** [Repo](https://github.com/Ojoinioluwa/pet-health-tracker)
+**GitHub:** [Repo](https://github.com/Ojoinioluwa/pet-app-frontend)
 
 ---
 
@@ -156,7 +156,7 @@ Let’s collaborate, learn, and build cool stuff together.
 
 - **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/ojoinioluwa)
 - **Email:** [ojoinioluwa05@gmail.com](mailto:ojoinioluwa05@gmail.com)
-- **Portfolio:** Coming soon
+- **Portfolio:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
 
 ---
 
