@@ -14,7 +14,6 @@ I operate at the intersection of **blue-team security** and **full-stack enginee
 * [🔐 Cybersecurity Projects](#cybersecurity-projects)
 * [💻 Software Projects](#software-projects)
 * [Currently Learning](#currently-learning)
-* [My GitHub Stats](#my-github-stats)
 * [Let's Connect](#lets-connect)
 
 ---
@@ -111,7 +110,7 @@ Mobile app for pet health records, reminders, and appointments.
  ## Let's Connect! 
 
 Let’s collaborate, learn, and build cool stuff together. 
-- **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/ojoinioluwa) -
+- **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/inioluwa05/) 
 - **Email:** [ojoinioluwa05@gmail.com](mailto:ojoinioluwa05@gmail.com)
 - **Portfolio-SOftware Development:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
 
