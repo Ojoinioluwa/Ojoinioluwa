@@ -9,6 +9,7 @@ I operate at the intersection of **blue-team security** and **full-stack enginee
 ## 📚 Table of Contents
 
 * [About Me](#about-me)
+* [Certifications](#certifications)
 * [Skills & Technologies](#skills--technologies)
 * [🔐 Cybersecurity Projects](#cybersecurity-projects)
 * [💻 Software Projects](#software-projects)
@@ -20,13 +21,22 @@ I operate at the intersection of **blue-team security** and **full-stack enginee
 
 ## About Me
 
-I'm an emerging **Cybersecurity Analyst** specializing in email forensics, malware triage, SIEM log analysis, threat intelligence, and SOC workflows.
+I'm an emerging **Cybersecurity Analyst** specializing in email forensics, malware triage, SIEM log analysis, threat intelligence, and SOC workflows. **I am certified in the CompTIA Security+  and an IBM Certified Cybersecurity Analyst.**
 
 I actively build out real-world labs — phishing investigations, Active Directory environments, log analysis pipelines — and document every engagement like a structured incident report.
 
 On the engineering side, I’m also a capable full-stack developer, experienced in the **MERN stack**, secure API development, and mobile app development with React Native. This blend allows me to approach security incidents with deeper technical intuition, especially around web threats, authentication, and backend exploitation paths.
 
 I’m constantly upskilling, experimenting, and leveling up — whether it’s building SOC labs, analyzing attacks, or contributing to secure systems.
+
+---
+
+## 🏅 Certifications
+
+| Certification | Focus Areas | Verification |
+| :--- | :--- | :--- |
+| **CompTIA Security+ (SY0-701)** | Risk Management, Cryptography, Security Architecture, Threat Management | [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/527EVZFH5599) |
+| **IBM Cybersecurity Analyst** | Threat Intelligence, Penetration Testing, Ethical Hacking, IBM QRadar/SIEM | [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/527EVZFH5599) |
 
 ---
 
