@@ -104,12 +104,12 @@ Mobile app for pet health records, reminders, and appointments.
 * AWS security & cloud fundamentals
 
 ---
+ ## Let's Connect! 
 
-## My GitHub Stats
----
+Let’s collaborate, learn, and build cool stuff together. 
+- **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/ojoinioluwa) -
+- **Email:** [ojoinioluwa05@gmail.com](mailto:ojoinioluwa05@gmail.com)
+- **Portfolio-SOftware Development:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
 
-## Let's Connect!
 
-* **LinkedIn:** `linkedin.com/in/ojoinioluwa`
-* **Email:** `ojainioluwa05@gmail.com`
-* **Portfolio:** `https://ojoinioluwa-portfolio.onrender.com`
+🌟 From **Ojo Inioluwa** Thanks for stopping by — don’t forget to ⭐ a project if it inspired you!
