@@ -13,7 +13,7 @@ I operate at the intersection of **blue-team security** and **full-stack enginee
 * [Skills & Technologies](#skills--technologies)
 * [🔐 Cybersecurity Projects](#cybersecurity-projects)
 * [💻 Software Projects](#software-projects)
-* [Currently Learning & Future Goals](#currently-learning--future-goals)
+* [Currently Learning](#currently-learning)
 * [My GitHub Stats](#my-github-stats)
 * [Let's Connect](#lets-connect)
 
@@ -103,7 +103,7 @@ Mobile app for pet health records, reminders, and appointments.
 
 ---
 
-## Currently Learning & Future Goals
+## Currently Learning
 
 * **Wazuh SIEM** & Advanced Log Correlation
 * Active Directory + **Blue-team Attack Simulation**
