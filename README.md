@@ -52,7 +52,6 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 | **Incident Response** | Triage, workflow documentation, containment |
 | **Network Security** | Packet capture, basic detection (Wireshark) |
 | **SOC Operations** | Alert correlation & escalation, Sysmon |
-| **Learning** | YARA, OSINT, Cloud Security Fundamentals |
 
 ### 💻 Full-Stack Development
 
