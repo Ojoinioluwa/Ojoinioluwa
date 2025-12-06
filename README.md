@@ -44,8 +44,18 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 ## Skills & Technologies
 
 
-## 🧰 Tech Stack Overview
-![skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,linux,docker,git,github,aws)
+## 🛡️ Cybersecurity & SOC Tooling  
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-blue?style=for-the-badge&logo=splunk)
+![Wazuh](https://img.shields.io/badge/Wazuh-SOC%20Platform-blue?style=for-the-badge&logo=wazuh)
+![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-Log%20Analytics-yellow?style=for-the-badge&logo=elastic)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity%20Management-0A66C2?style=for-the-badge&logo=microsoft)
+![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Logging-lightgrey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Malware%20Analysis-blue?style=for-the-badge&logo=virustotal)
+![Any.Run](https://img.shields.io/badge/Any.Run-Sandbox%20Analysis-orange?style=for-the-badge)
+![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-Malware%20Triage-lightblue?style=for-the-badge)
+![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-Forensics-green?style=for-the-badge&logo=microsoft)
+
 
 ### 🛡️ Cybersecurity
 | Tool/Area | Core Competency |
