@@ -36,7 +36,7 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 | Certification | Focus Areas | Verification |
 | :--- | :--- | :--- |
 | **CompTIA Security+ (SY0-701)** | Risk Management, Cryptography, Security Architecture, Threat Management | [Verify Certificate](https://cp.certmetrics.com/comptia/en/public/verify/credential/d5f4943fdbce4338a3341e9887af1435) |
-| **IBM Cybersecurity Analyst** | Threat Intelligence, Penetration Testing, Ethical Hacking, IBM QRadar/SIEM | [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/527EVZFH5599) |
+| **IBM Cybersecurity Analyst** | Threat intelligence, security monitoring, network security, incident detection, and IBM QRadar SIEM operations | [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/527EVZFH5599) |
 
 ---
 
