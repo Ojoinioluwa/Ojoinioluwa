@@ -1,164 +1,115 @@
-## 👋 Hi there, I'm Ojo Inioluwa!
+# 👋 Hi there, I'm Ojo Inioluwa!
 
-A passionate Full-Stack Developer with a solid foundation in the MERN stack, actively expanding into Go and PostgreSQL. I'm driven by the challenge of solving real-world problems with clean, scalable, and performant code.
+A **Cybersecurity Analyst** with hands-on experience in threat detection, incident response, SIEM operations, and phishing analysis — backed by a strong engineering foundation in the **MERN stack** and secure backend development.
+
+I operate at the intersection of **blue-team security** and **full-stack engineering**, leveraging both skillsets to analyze threats, build secure systems, and troubleshoot complex technical workflows.
 
 ---
 
 ## 📚 Table of Contents
 
-- [About Me](#about-me)
-- [Skills & Technologies](#skills--technologies)
-- [Projects](#projects)
-- [Open Source Contributions](#open-source-contributions)
-- [Currently Learning & Future Goals](#currently-learning--future-goals)
-- [My GitHub Stats](#my-github-stats)
-- [Let's Connect](#lets-connect)
+* [About Me](#about-me)
+* [Skills & Technologies](#skills--technologies)
+* [🔐 Cybersecurity Projects](#cybersecurity-projects)
+* [💻 Software Projects](#software-projects)
+* [Currently Learning & Future Goals](#currently-learning--future-goals)
+* [My GitHub Stats](#my-github-stats)
+* [Let's Connect](#lets-connect)
 
 ---
 
 ## About Me
 
-I'm a dedicated developer focused on building dynamic, responsive, and impactful web and mobile applications. I specialize in the **MERN stack** — MongoDB, Express.js, React.js, and Node.js — but I'm currently levelling up with **Go (Golang)** and **PostgreSQL** to master backend performance and microservices architecture.
+I'm an emerging **Cybersecurity Analyst** specializing in email forensics, malware triage, SIEM log analysis, threat intelligence, and SOC workflows.
 
-I thrive on building things from scratch, diving deep into clean code, and contributing to scalable systems. Learning new tools, adopting best practices, and staying curious keeps me sharp and evolving.
+I actively build out real-world labs — phishing investigations, Active Directory environments, log analysis pipelines — and document every engagement like a structured incident report.
+
+On the engineering side, I’m also a capable full-stack developer, experienced in the **MERN stack**, secure API development, and mobile app development with React Native. This blend allows me to approach security incidents with deeper technical intuition, especially around web threats, authentication, and backend exploitation paths.
+
+I’m constantly upskilling, experimenting, and leveling up — whether it’s building SOC labs, analyzing attacks, or contributing to secure systems.
 
 ---
 
 ## Skills & Technologies
 
-**Frontend Development:**
+### 🛡️ Cybersecurity
+| Tool/Area | Core Competency |
+| :--- | :--- |
+| **Email Forensics** | SPF, DKIM, DMARC validation |
+| **Malware Triage** | VirusTotal, sandbox analysis (Dynamic & Static) |
+| **Log Analysis & SIEM** | ELK, Wazuh, Splunk (Free Tier) |
+| **Threat Intelligence** | IOC hunting, hash analysis, C2 extraction |
+| **Incident Response** | Triage, workflow documentation, containment |
+| **Network Security** | Packet capture, basic detection (Wireshark) |
+| **SOC Operations** | Alert correlation & escalation, Sysmon |
+| **Learning** | YARA, OSINT, Cloud Security Fundamentals |
 
-- ⚛️ React.js – Building interactive UIs
-- 💻 JavaScript (ES6+) – Core scripting foundation
-- 🎨 HTML5 & CSS3 – Web structure and design
-- 🧹 Tailwind CSS / Bootstrap – Utility-first styling
-- 🔄 Redux / Context API
-- 🔍 TanStack Query
+### 💻 Full-Stack Development
 
-**Backend Development:**
-
-- 🚀 Node.js – High-performance backend runtime
-- 🔧 Express.js – REST APIs & backend logic
-- 🔐 JWT / OAuth – Secure authentication
-- 🛠 RESTful API design
-- 🧠 Redis
-
-**Databases:**
-
-- 🍃 MongoDB – Flexible NoSQL database
-- 🔗 Mongoose – Schema modeling for MongoDB
-- 🐘 PostgreSQL (learning) – Relational database
-- ⚙️ Prisma
-
-**Tools & Platforms:**
-
-- 🧪 Postman – API testing
-- 🧑‍💻 VS Code – Primary IDE
-- ⛓ Git & GitHub – Version control & collaboration
-- ☁️ Netlify / Vercel / Heroku / Render – Deployment
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, React Native, JavaScript (ES6+), Redux, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, OAuth, Helmet, Secure Coding |
+| **Databases** | MongoDB + Mongoose, PostgreSQL (learning), Prisma ORM |
+| **Tools & DevOps** | Postman, Git & GitHub, Docker (learning), Render, Vercel |
 
 ---
 
-## Projects
+## 🔐 Cybersecurity Projects
 
-### 🏠 Home Rental App
+#### 📧 Phishing Email Analysis
+Investigated a malicious phishing email impersonating a customer; analyzed headers, triaged a trojan-based attachment using VirusTotal and sandbox tools, identified IOCs (including C2), and documented findings with strategic recommendations.
+*Skills:* Email forensics, malware analysis, threat intelligence, incident response.
 
-**Description:** A real-estate platform for renters and landlords with role-based dashboards, listing uploads, and availability toggles.
-**Tech Stack:** React Native (Expo), Redux, Node.js, Express, MongoDB
-**Key Features:**
+#### 🏠 Home SOC Lab (In Progress)
+Building a multi-VM SOC environment with Windows, Linux, and Active Directory. Simulating attacks to generate logs, monitoring with ELK/Wazuh, and practicing detection and response workflows.
+*Skills:* SOC operations, virtualization, AD, log ingestion, threat detection.
 
-- Mobile-first experience
-- Property image uploads
-- Role-based secure routing
-
-**Download App:** [Download](https://expo.dev/accounts/ojay_05/projects/rentals/builds/d3a15880-15c9-4bac-9023-a7c486a1aba4)
-**GitHub:** [Repo](https://github.com/Ojoinioluwa/rentals)
-
----
-
-### 🔐 Password Manager Application
-
-**Description:** A secure password manager with strong password generation, breach detection, encryption, and intuitive user interface.
-**Goal:** To deliver a modern, secure system for managing and monitoring credentials.
-**Backend:** Node.js, Express, MongoDB, JWT, Helmet
-**Frontend:** React, Tailwind CSS, MUI
-**Security:** Real-time strength scoring with Zxcvbn, HIBP integration
-
-**Tech Stack:** React, Tailwind CSS, MUI, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, Helmet, Zxcvbn, Vite
-
-**Key Features:**
-
-- 🔑 Strong password generation
-- 🛡️ Real-time breach detection (HIBP API)
-- 🔒 End-to-end encryption
-- 📊 Password strength analysis
-- 🗽 Responsive UI with Tailwind + MUI
-
-**Outcome:** Built a production-ready app with zero known vulnerabilities and strong UX.
-**Lessons Learned:** Improved secure coding practices, encryption logic, and usability balance.
-
-**Live Demo:** [View Live](https://password-manager-frontend-mzof.onrender.com)
-**GitHub:** [Repo](https://github.com/Ojoinioluwa/Password-manager)
+#### 📊 Log Analysis & Alert Correlation (In Progress)
+Using ELK/Wazuh/Splunk to ingest Windows & Linux logs, build dashboards, detect suspicious activities, and correlate multi-event attack patterns.
+*Skills:* SIEM, log analysis, threat detection, alerting.
 
 ---
 
-### 📟 Expense Tracker App
+## 💻 Software Projects
 
-**Description:** A full-stack expense tracking application with user authentication, analytics, and budget planning.
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
-**Key Features:**
+*(These now support your security narrative — not overshadow it.)*
 
-- JWT-based authentication
-- CRUD operations for expenses
-- Monthly analytics charts
+#### 🔐 Password Manager Application
+Full-stack password manager with **encryption**, **breach detection**, strong password generation, and **secure authentication**.
+*Tech:* React, Node.js, MongoDB, JWT, Helmet, Zxcvbn
 
-**Live Demo:** [View Live](https://expense-tracking-application-frontend.onrender.com)
-**GitHub:** [Repo](https://github.com/Ojoinioluwa/Expense-tracking-application)
+#### 🏠 Home Rental App
+React Native + Node.js real-estate platform with **secure routing**, image uploads, and **role-based dashboards**.
+*Tech:* React Native, Redux, Express, MongoDB
 
----
+#### 📟 Expense Tracker
+Full-stack expense tracking system with charts, analytics, and user authentication.
+*Tech:* MERN
 
-### 🐶 Pet Health Tracker
-
-**Description:** A mobile app for managing pet health records, reminders, and vet appointments.
-**Tech Stack:** React Native, Node.js, MongoDB, Expo, Redux, TanStack Query
-**Key Features:**
-
-- Vaccine reminder system
-- Health records storage
-- Role-based user dashboard
-
-**Live Demo:** Coming soon
-**GitHub:** [Repo](https://github.com/Ojoinioluwa/pet-app-frontend)
+#### 🐶 Pet Health Tracker
+Mobile app for pet health records, reminders, and appointments.
+*Tech:* React Native, Node.js, MongoDB
 
 ---
 
 ## Currently Learning & Future Goals
 
-- **Go (Golang):** Concurrency, performance, microservices
-- **PostgreSQL:** Relational data modeling
-- **Docker + Kubernetes:** Containerization & orchestration
-- **GraphQL:** Flexible data queries
-- **AWS / Cloud:** Backend infrastructure
-- **Security+ Certification:** Cybersecurity foundations
+* **Wazuh SIEM** & Advanced Log Correlation
+* Active Directory + **Blue-team Attack Simulation**
+* **Malware Analysis** Fundamentals
+* Go (Golang) + Microservices
+* PostgreSQL & Prisma
+* Docker, Kubernetes
+* AWS security & cloud fundamentals
 
 ---
 
 ## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojoinioluwa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojoinioluwa&layout=compact&theme=radical)
-
 ---
 
 ## Let's Connect!
 
-Let’s collaborate, learn, and build cool stuff together.
-
-- **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/ojoinioluwa)
-- **Email:** [ojoinioluwa05@gmail.com](mailto:ojoinioluwa05@gmail.com)
-- **Portfolio:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
-
----
-
-🌟 From **Ojo Inioluwa**
-Thanks for stopping by — don’t forget to ⭐ a project if it inspired you!
+* **LinkedIn:** `linkedin.com/in/ojoinioluwa`
+* **Email:** `ojainioluwa05@gmail.com`
+* **Portfolio:** `https://ojoinioluwa-portfolio.onrender.com`
