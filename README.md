@@ -42,9 +42,7 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 ---
 
 ## Skills & Technologies
-
-
-## 🛡️ Cybersecurity & SOC Tooling  
+ 
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-blue?style=for-the-badge&logo=splunk)
 ![Wazuh](https://img.shields.io/badge/Wazuh-SOC%20Platform-blue?style=for-the-badge&logo=wazuh)
 ![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-Log%20Analytics-yellow?style=for-the-badge&logo=elastic)
