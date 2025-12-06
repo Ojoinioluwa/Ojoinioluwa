@@ -31,7 +31,7 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certification | Focus Areas | Verification |
 | :--- | :--- | :--- |
