@@ -42,7 +42,8 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 ---
 
 ## Skills & Technologies
- 
+
+ ### Core Security Stack
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-blue?style=for-the-badge&logo=splunk)
 ![Wazuh](https://img.shields.io/badge/Wazuh-SOC%20Platform-blue?style=for-the-badge&logo=wazuh)
 ![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-Log%20Analytics-yellow?style=for-the-badge&logo=elastic)
@@ -76,6 +77,9 @@ Tools I use daily: Splunk Free, Wazuh, ELK Stack, Sysmon, Windows Event Logs, Vi
 | **Backend** | Node.js, Express.js, REST APIs, JWT, OAuth, Helmet, Secure Coding |
 | **Databases** | MongoDB + Mongoose, PostgreSQL (learning), Prisma ORM |
 | **Tools & DevOps** | Postman, Git & GitHub, Docker (learning), Render, Vercel |
+
+![skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,linux,docker,git,github,tailwind,redux,vscode)
+
 
 ---
 
