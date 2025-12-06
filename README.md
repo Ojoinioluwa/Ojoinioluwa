@@ -43,6 +43,10 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 
 ## Skills & Technologies
 
+
+## 🧰 Tech Stack Overview
+![skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,linux,docker,git,github,aws)
+
 ### 🛡️ Cybersecurity
 | Tool/Area | Core Competency |
 | :--- | :--- |
@@ -68,6 +72,7 @@ Tools I use daily: Splunk Free, Wazuh, ELK Stack, Sysmon, Windows Event Logs, Vi
 ---
 
 ## 🔐 Cybersecurity Projects
+Practicing real-world SOC workflows across phishing investigations, SIEM detection engineering, and home lab attack simulations.
 
 #### 📧 Phishing Email Analysis
 Investigated a malicious phishing email impersonating a customer; analyzed headers, triaged a trojan-based attachment using VirusTotal and sandbox tools, identified IOCs (including C2), and documented findings with strategic recommendations.
@@ -84,8 +89,8 @@ Using ELK/Wazuh/Splunk to ingest Windows & Linux logs, build dashboards, detect 
 ---
 
 ## 💻 Software Projects
+Selected engineering projects demonstrating system design, API security, and full-stack development expertise.
 
-*(These now support your security narrative — not overshadow it.)*
 
 #### 🔐 Password Manager Application
 Full-stack password manager with **encryption**, **breach detection**, strong password generation, and **secure authentication**.
@@ -105,13 +110,11 @@ Mobile app for pet health records, reminders, and appointments.
 
 ---
 
-
----
  ## Let's Connect! 
 
 Let’s collaborate, learn, and build cool stuff together. 
-- **LinkedIn:** [linkedin.com/in/ojoinioluwa](https://www.linkedin.com/in/inioluwa05/) 
+- **LinkedIn:** [linkedin.com/in/ojoinioluwa05](https://www.linkedin.com/in/inioluwa05/) 
 - **Email:** [ojoinioluwa05@gmail.com](mailto:ojoinioluwa05@gmail.com)
-- **Portfolio-SOftware Development:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
+- **Portfolio-Software Development:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
 
 
