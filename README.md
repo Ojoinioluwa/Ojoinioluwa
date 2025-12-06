@@ -25,6 +25,8 @@ I'm an emerging **Cybersecurity Analyst** specializing in email forensics, malwa
 
 I actively build out real-world labs — phishing investigations, Active Directory environments, log analysis pipelines — and document every engagement like a structured incident report.
 
+My core focus is blue-team cybersecurity—SOC analysis, threat detection, and incident response—while my engineering background strengthens my ability to dissect and secure complex systems.
+
 On the engineering side, I’m also a capable full-stack developer, experienced in the **MERN stack**, secure API development, and mobile app development with React Native. This blend allows me to approach security incidents with deeper technical intuition, especially around web threats, authentication, and backend exploitation paths.
 
 I’m constantly upskilling, experimenting, and leveling up — whether it’s building SOC labs, analyzing attacks, or contributing to secure systems.
@@ -52,6 +54,8 @@ I’m constantly upskilling, experimenting, and leveling up — whether it’s b
 | **Incident Response** | Triage, workflow documentation, containment |
 | **Network Security** | Packet capture, basic detection (Wireshark) |
 | **SOC Operations** | Alert correlation & escalation, Sysmon |
+
+Tools I use daily: Splunk Free, Wazuh, ELK Stack, Sysmon, Windows Event Logs, VirusTotal, Any.Run, Hybrid Analysis, Wireshark
 
 ### 💻 Full-Stack Development
 
@@ -102,15 +106,6 @@ Mobile app for pet health records, reminders, and appointments.
 
 ---
 
-## Currently Learning
-
-* **Wazuh SIEM** & Advanced Log Correlation
-* Active Directory + **Blue-team Attack Simulation**
-* **Malware Analysis** Fundamentals
-* Go (Golang) + Microservices
-* PostgreSQL & Prisma
-* Docker, Kubernetes
-* AWS security & cloud fundamentals
 
 ---
  ## Let's Connect! 
@@ -121,4 +116,3 @@ Let’s collaborate, learn, and build cool stuff together.
 - **Portfolio-SOftware Development:** [Portfolio](https://ojoinioluwa-portfolio.onrender.com/)
 
 
-🌟 From **Ojo Inioluwa** Thanks for stopping by — don’t forget to ⭐ a project if it inspired you!
